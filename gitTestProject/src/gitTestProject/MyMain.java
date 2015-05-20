@@ -21,9 +21,11 @@ public class MyMain
 	{
 		Product p = new Product(Integer.valueOf(1), "nail", "short iron nail");
 		listProduct.add(p);
-		p = new Product(Integer.valueOf(2), "Big brick", "brick 40x30x90");
+		p = new Product(Integer.valueOf(2), "Big brick", "brick 35x30x90");
 		listProduct.add(p);
-		p = new Product(Integer.valueOf(3), "Small brick", "brick 25x15x40");
+		p = new Product(Integer.valueOf(3), "Small brick", "brick 22x15x40");
+		listProduct.add(p);
+		p = new Product(Integer.valueOf(3), "Hammer", "heavy hammer");
 		listProduct.add(p);
 	}
 
