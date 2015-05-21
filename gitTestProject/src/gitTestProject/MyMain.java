@@ -23,11 +23,11 @@ public class MyMain
 		listProduct.add(p);
 		p = new Product(Integer.valueOf(2), "Big brick", "brick 36x24x90");
 		listProduct.add(p);
-		p = new Product(Integer.valueOf(2), "Middle brick", "middle brick");
+		p = new Product(Integer.valueOf(3), "Middle brick", "middle brick");
 		listProduct.add(p);
-		p = new Product(Integer.valueOf(3), "Small brick", "brick 22x15x40");
+		p = new Product(Integer.valueOf(4), "Small brick", "brick 22x15x40");
 		listProduct.add(p);
-		p = new Product(Integer.valueOf(3), "Hammer", "heavy hammer");
+		p = new Product(Integer.valueOf(5), "Hammer", "heavy hammer");
 		listProduct.add(p);
 	}
 
